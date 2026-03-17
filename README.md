@@ -89,4 +89,4 @@ Data health: [flags or limitations]
 
 ## Built by
 
-Made for [blader/humanizer](https://github.com/blader/humanizer) — a Claude Code skill that removes signs of AI-generated writing from text.
+Anderson Porangaba Azevedo [https://github.com/andersongrowth/] — https://www.linkedin.com/in/anderson-porangaba/
